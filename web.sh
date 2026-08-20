@@ -12,4 +12,4 @@ sudo cp -r 2129_crispy_kitchen/* /var/www/html/
 cd ..
 sudo rm -rf webfiles
 sudo systemctl restart apache2
-figlet done
+figlet success
